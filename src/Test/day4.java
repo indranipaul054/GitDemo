@@ -11,6 +11,7 @@ public class day4 {
 		//selenium
 		System.out.println("webloginhomeloan");
 		System.out.println(uname);
+		System.out.println(uname);
 		}
 	
 	@Test
