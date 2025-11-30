@@ -20,11 +20,15 @@ public class day4 {
 		System.out.println("Mobileloginhome");
 		System.out.println("MobileLoginWeb");
 		System.out.print("True");
+		System.out.println("Mobileloginhome");
+		System.out.println("MobileLoginWeb");
+		System.out.print("True");
 	}
 	@Test
 	public void APIHomeLoan()
 	{
 		//Rest API Automation
+		System.out.println("APIloginhome");
 		System.out.println("APIloginhome");
 	}
 
