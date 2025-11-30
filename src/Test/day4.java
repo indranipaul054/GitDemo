@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 public class day4 {
 	@Parameters({"URL"})
 	@Test
-	public void WebLoginHomeLoan(String uname)
+	public <String> void WebLoginHomeLoan(String uname)
 	{
 		//selenium
 		System.out.println("webloginhomeloan");

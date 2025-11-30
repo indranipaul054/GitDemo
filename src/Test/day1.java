@@ -19,6 +19,8 @@ public class day1 {
 	{
 	System.out.println("hello");
 	Assert.assertTrue(false);
+	System.out.println("hI");
+	Assert.assertTrue(true);
 	}
 	
 	@AfterSuite
