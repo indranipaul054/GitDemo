@@ -18,8 +18,9 @@ public class day4 {
 	{
 		//Appium
 		System.out.println("Mobileloginhome");
+		System.out.println("MobileLoginWeb");
+		System.out.print("True");
 	}
-	
 	@Test
 	public void APIHomeLoan()
 	{
